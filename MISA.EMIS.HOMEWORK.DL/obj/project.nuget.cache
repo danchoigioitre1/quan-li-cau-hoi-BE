@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lFsDECGU3MC3EQ3ybBtxPTQ+CGVAruiH2FjCL/H9JjtcxNil5LOU+SwNu8dyxqFnWA2DN8Le76A3t4IQkVI+g==",
+  "success": true,
+  "projectFilePath": "D:\\Misa.ASP.NET\\MISA.EMIS.HOMEWORK\\MISA.EMIS.HOMEWORK.DL\\MISA.EMIS.HOMEWORK.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\achie\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\achie\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\achie\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\achie\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\achie\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\achie\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\achie\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

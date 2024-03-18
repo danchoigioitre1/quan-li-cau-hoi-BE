@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MISA.EMIS.HOMEWORK.props" />
+</Project>

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.143" />
+    <PackageReference Include="MySqlConnector" Version="2.2.6" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MISA.EMIS.HOMEWORK.BLAPP\MISA.EMIS.HOMEWORK.BLAPP.csproj" />
+    <ProjectReference Include="..\MISA.EMIS.HOMEWORK.DL\MISA.EMIS.HOMEWORK.DL.csproj" />
+    <ProjectReference Include="..\MISA.EMIS.HOMEWORK.SERVICES\MISA.EMIS.HOMEWORK.BL.csproj" />
+  </ItemGroup>
+
+</Project>
